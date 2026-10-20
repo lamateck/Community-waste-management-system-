@@ -1,0 +1,23 @@
+COMMUNITY WASTE MANAGEMENT SYSTEM
+
+TESTING
+
+Test 1:
+Input: All details are entered correctly.
+Expected Output: Complaint recorded successfully.
+
+Test 2:
+Input: Resident name is missing.
+Expected Output: Please enter all details.
+
+Test 3:
+Input: Waste location is missing.
+Expected Output: Please enter all details.
+
+Test 4:
+Input: Waste type is missing.
+Expected Output: Please enter all details.
+
+Test 5:
+Input: Resident chooses No for another complaint.
+Expected Output: Thank you.
