@@ -1,0 +1,16 @@
+COMMUNITY WASTE MANAGEMENT SYSTEM
+
+ALGORITHM
+
+1. Start.
+2. Enter the resident’s name.
+3. Enter the location of the waste.
+4. Enter the type of waste.
+5. Check whether all details are entered.
+6. If any details are missing, ask the resident to enter them again.
+7. If all details are complete, record the complaint.
+8. Display a success message.
+9. Ask if the resident wants to report another complaint.
+10. If yes, repeat the process.
+11. If no, display a thank-you message.
+12. Stop.
