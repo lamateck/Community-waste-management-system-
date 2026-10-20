@@ -1,0 +1,22 @@
+PSEUDOCODE
+
+START
+
+REPEAT
+INPUT resident_name
+INPUT waste_location
+INPUT waste_type
+
+IF resident_name is empty OR waste_location is empty OR waste_type is empty THEN
+    DISPLAY "Please enter all details"
+ELSE
+    SAVE complaint
+    DISPLAY "Complaint recorded successfully"
+ENDIF
+INPUT another_complaint
+
+UNTIL another_complaint = “No”
+
+DISPLAY “Thank you”
+
+STOP
