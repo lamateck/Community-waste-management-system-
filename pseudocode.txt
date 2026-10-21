@@ -1,5 +1,3 @@
-PSEUDOCODE
-
 START
 
 REPEAT
@@ -19,4 +17,4 @@ UNTIL another_complaint = “No”
 
 DISPLAY “Thank you”
 
-STOP
+END
