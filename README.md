@@ -1,5 +1,7 @@
 # Community-waste-management-system-
 
+A simple system for recording community waste complaints 
+
 Project Description
 
 This project helps residents report waste problems in their communities.
