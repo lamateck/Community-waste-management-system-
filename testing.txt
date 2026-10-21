@@ -1,7 +1,3 @@
-COMMUNITY WASTE MANAGEMENT SYSTEM
-
-TESTING
-
 Test 1:
 Input: All details are entered correctly.
 Expected Output: Complaint recorded successfully.
